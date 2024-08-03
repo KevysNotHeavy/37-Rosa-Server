@@ -1,0 +1,13 @@
+/data
+/font
+/*.txt
+/*.json
+/*.srk
+/*.x64
+/*.so
+/rosaserversatellite
+/*.obj
+/*.csv
+/*.db
+/config.yml
+/.vscode
